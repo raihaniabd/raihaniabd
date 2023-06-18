@@ -1,10 +1,7 @@
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
 I am Abdessamad Raihani.
-I am a tech enthusiast. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
-
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdessamad-raihani-3a7305105/)](https://www.linkedin.com/in/abdessamad-raihani-3a7305105/)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abdessamadraih2@gmail.com)](mailto:abdessamadraih2@gmail.com)
+I am a tech enthusiast. Always open to collaborating on projects and innovative/disruptive ideas.
 
 ## ⚡ Technologies
 
@@ -31,7 +28,4 @@ I am a tech enthusiast. Always open to collaborating on projects and innovative/
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=raihaniabd&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raihaniabd&hide=TeX&layout=compact)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=raihaniabd.raihaniabd)
